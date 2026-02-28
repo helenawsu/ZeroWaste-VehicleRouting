@@ -1,0 +1,19 @@
+# Python
+.venv/
+.venv313/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Optional: uncomment to avoid committing generated CSV
+# *.csv

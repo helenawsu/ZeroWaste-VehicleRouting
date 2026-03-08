@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "date": null,
+    "truck_weight": "94617352",
+    "route_title": "SATURDAY LANDFILL ROUTE"
+  },
+  "rows": [
+    {
+      "location": "MOFFIT LIBRARY",
+      "saturday_toters": null,
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "MOSES/STEVENS",
+      "saturday_toters": "2",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "MULFORD HALL",
+      "saturday_toters": "4",
+      "saturday_dumpsters": "7"
+    },
+    {
+      "location": "OLD ART MUSEUM",
+      "saturday_toters": "4",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "SIMON HALL",
+      "saturday_toters": "1",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "STANLEY HALL",
+      "saturday_toters": null,
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "STERN HALL",
+      "saturday_toters": "0",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "SUTARDJA DAI",
+      "saturday_toters": null,
+      "saturday_dumpsters": "1"
+    },
+    {
+      "location": "UNIT 1 EAST",
+      "saturday_toters": "3",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT 1 NORTH",
+      "saturday_toters": "1",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT 1 SOUTH",
+      "saturday_toters": "4",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT1-LOADING DOCK (West)",
+      "saturday_toters": "12",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT 2 EAST",
+      "saturday_toters": "7",
+      "saturday_dumpsters": "12"
+    },
+    {
+      "location": "UNIT 2 NORTH",
+      "saturday_toters": "4",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT 2 SOUTH",
+      "saturday_toters": "4",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT 2-LOADING DOCK (West)",
+      "saturday_toters": "12",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "UNIT 3 SOUTH",
+      "saturday_toters": "5",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "WHELLER HALL",
+      "saturday_toters": null,
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "WOMENS FACULTY CLUB",
+      "saturday_toters": null,
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "Bowles Hall",
+      "saturday_toters": "2",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "2121 Berkeley Way",
+      "saturday_toters": "3",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "BLACKWELL",
+      "saturday_toters": "5",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "INTERNATIONAL HOUSE",
+      "saturday_toters": null,
+      "saturday_dumpsters": "7"
+    },
+    {
+      "location": "SOUTH HALL",
+      "saturday_toters": null,
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "DURANT HALL",
+      "saturday_toters": null,
+      "saturday_dumpsters": "1"
+    },
+    {
+      "location": "GREEK THEATER",
+      "saturday_toters": "13",
+      "saturday_dumpsters": "4"
+    },
+    {
+      "location": "ANCHOR HOUSE",
+      "saturday_toters": "3",
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "SOCIAL SCIENCES",
+      "saturday_toters": null,
+      "saturday_dumpsters": null
+    },
+    {
+      "location": "BERKELEY LAW",
+      "saturday_toters": "14",
+      "saturday_dumpsters": "2"
+    }
+  ]
+}

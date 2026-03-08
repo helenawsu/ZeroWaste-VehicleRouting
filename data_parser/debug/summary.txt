@@ -1,0 +1,5 @@
+Expected total data rows: 54
+Expected columns per page: 10
+Actual total data rows (gridify): 54
+
+Per-page: see pageN/index.txt and pageN/rows/ and pageN/cols/.

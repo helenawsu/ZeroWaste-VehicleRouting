@@ -1,0 +1,4 @@
+page 2: 32 rows, 10 columns
+header_row=3, data rows 4..30 (27 data rows)
+rows/ = one image per row (row00_skip.png, ...)
+cols/ = one image per column (col00.png ...)
